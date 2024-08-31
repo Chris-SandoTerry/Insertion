@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  Insertion
-//
-//  Created by Christopher Sandoval Terry on 7/18/23.
-//
 #include<iostream>
 #include<fstream>
 #include<string>
