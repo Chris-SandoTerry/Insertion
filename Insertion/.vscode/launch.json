@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chrisandoterry/Desktop/School/Portfolio/Project/redo projects/Insertion/Insertion",
+      "program": "/Users/chrisandoterry/Desktop/School/Portfolio/Project/redo projects/Insertion/Insertion/build/Debug/outDebug"
+    }
+  ]
+}
